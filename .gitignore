@@ -1,1 +1,5 @@
 *.txt.user
+cmake-build-debug
+.vscode
+.idea
+
